@@ -1,0 +1,10 @@
+<databases>
+    <database>
+        <driver>com.mysql.jdbc.Driver</driver>
+        <connection>
+            <url>jdbc:mysql://localhost/daobase</url>
+            <session>root</session>
+            <password></password>
+        </connection>
+    </database>
+</databases>
